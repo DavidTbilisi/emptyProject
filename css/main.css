@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+:root{
+    font-size: 10px;
+    --color1:red;
+    --color2:red;
+    --color3:red;
+    --color4:red;
+    --color5:red;
+    --color6:red;
+}
+
+html,body{
+    font-size: 1.6rem;
+}
